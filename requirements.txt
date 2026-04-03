@@ -1,0 +1,9 @@
+streamlit
+torch
+torch-geometric
+torch-scatter
+torch-sparse
+networkx
+plotly
+pandas
+numpy
